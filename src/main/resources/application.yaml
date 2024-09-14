@@ -1,0 +1,7 @@
+#spring.application.name=replace
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/class
+    username: root
+    password: wf020904
+    driver-class-name: com.mysql.cj.jdbc.Driver
